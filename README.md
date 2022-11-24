@@ -7,6 +7,8 @@ https://astonishing-rugelach-2f20a4.netlify.app
 3. then user will have shown translated text in next textarea field.
 
 <hr />
+
+
 ## URL of the API
 https://api.funtranslations.com/translate/minion.json?text=textToBeTranslated
 
